@@ -8,8 +8,6 @@ import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 import streamlit as st
 from datetime import datetime, timedelta
-
-sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from config import DATA_PROC_DIR, MODEL_DIR, ALERT_LOG_FILE
 
 # ── Page config ────────────────────────────────────────────────────────────
