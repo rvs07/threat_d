@@ -141,7 +141,6 @@ ai_threat_dashboard/
 | Threats Detected | 240 (5.5%) |
 | Critical Alerts | 130 |
 | Avg Risk Score | 0.456 |
-| Model ROC-AUC | 0.87 |
 | Alert Noise Reduced | 88% (deduplication) |
 
 ---
